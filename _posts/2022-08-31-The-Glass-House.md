@@ -2,7 +2,7 @@
 layout: post
 title: Reflecting on my Summer with The Glass-House
 subtitle: A Recent Blog Post I Created for The Glass-House Website
-cover-img: "/assets/img/vince_presenting.jpeg","/assets/img/glass-house.jpeg"
+cover-img: ["/assets/img/vince_presenting.jpeg", "/assets/img/glass-house.jpeg"]
 thumbnail-img: /assets/img/gh-thumb.png
 share-img: /assets/img/glass-house.jpeg
 tags: [blog, work, reflection]
