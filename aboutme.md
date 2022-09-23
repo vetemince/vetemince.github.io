@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: <ins> About me <ins/>
 subtitle: I really think that since I have no clue, everything is possible
 ---
 
@@ -21,7 +21,7 @@ Take a look at my e-CV to have a glimpse of my skills and experience!
 &nbsp;
 &nbsp;
 
-## [Projects](https://vincedoyo.xyz/projects)
+## <ins> [Projects](https://vincedoyo.xyz/projects) <ins>
 ### Notable Projects
 \- [State of Play Workshop with The Glass-House](https://vincedoyo.xyz/2022-08-31-The-Glass-House/)
 
