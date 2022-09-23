@@ -1,17 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: What's going on?
+subtitle: "I really think that since I have no clue, everything is possible" 
 ---
 
-My name is Vince Doyo and I am a graduate from the Universitt of Sheffield. I am looking to enter the data analytics field and figured I might as well create a website as some sort of archive - both for me and you (mostly me). I want this to seem as humman as possible - not sure how yet but hey-ho.
+My name is Vince Doyo, and I graduated from the University of Sheffield. I figured I might as well create a website as some sort of archive to keep a record of my progress. 
 
-**Quick fire of things that I have done recently (as of 31/08/22)**
-- Graduated the University of Sheffield with a degree in Accounting and Financial Management
-- Completed an Internship with The Glass-House Community Led Design - blog post coming soon
-- 
+I enjoy working on challenging problems that positively affect individuals or organisations. I am always open to trying new methods and ideas as I believe that new perspectives can develop understanding and knowledge.
+
+In addition to my work, I will also include my side and passion projects ranging from coding to art and music!
+
+### Curriculum Vitae [](url)
+**Take a look at my e-CV to have a glimpse of my skills and experience!**
 
 
-### My story
+### Notable Projects
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
