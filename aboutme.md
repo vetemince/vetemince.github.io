@@ -19,8 +19,8 @@ Take a look at my e-CV to have a glimpse of my skills and experience!
 &nbsp;
 &nbsp;
 
-### [Projects](https://vincedoyo.xyz/projects)
-## Notable Projects
+## [Projects](https://vincedoyo.xyz/projects)
+### Notable Projects
 \- [State of Play Workshop with The Glass-House](https://vincedoyo.xyz/2022-08-31-The-Glass-House/)
 
 &nbsp;
