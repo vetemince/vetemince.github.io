@@ -14,7 +14,7 @@ In addition to my work, I will also include my side and passion projects ranging
 &nbsp;
 
 ### [Curriculum Vitae](https://vincedoyo.xyz/cv)
-Take a look at my e-CV to have a glimpse of my skills and experience!**
+Take a look at my e-CV to have a glimpse of my skills and experience!
 
 &nbsp;
 &nbsp;
