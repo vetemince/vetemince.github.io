@@ -17,4 +17,5 @@ I also wrote a blog post about [my time with The Glass-House team.](https://theg
 
 After the workshop, I also attended a symposium event. 
 During the event, I presented and talked about my experience, as well as answering questions as part of a panel.
-(insert image of symposium)
+
+share-img: /assets/img/symposium.jpeg
