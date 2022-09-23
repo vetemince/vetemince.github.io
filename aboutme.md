@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <ins> About me <ins/>
+title: About me
 subtitle: I really think that since I have no clue, everything is possible
 ---
 
