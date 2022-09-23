@@ -19,7 +19,7 @@ Take a look at my e-CV to have a glimpse of my skills and experience!**
 &nbsp;
 &nbsp;
 
-### Notable Projects
+### [Notable Projects](https://vincedoyo.xyz/projects)
 \- State of Play Workshop with The Glass-House
-\- Test 
-\- Test 2
+
+&nbsp;
