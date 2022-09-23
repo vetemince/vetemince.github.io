@@ -12,7 +12,7 @@ This blog aims to look at what I learned from my time with The Glass-House - foc
 
 If you want to know more about how the workshop went, Jake wrote an excellent piece about our [State of Play workshop!](https://theglasshouse.org.uk/co-design-collaboration/the-state-of-play-workshop-a-design-and-gaming-workshop-at-the-national-videogame-museum/)
 
-I also wrote a blog post about [my time with The Glass-House team.]([Link provided when blog is published](https://theglasshouse.org.uk/co-design-collaboration/vinces-journey-during-the-glass-house-internship/)
+I also wrote a blog post about [my time with The Glass-House team.](https://theglasshouse.org.uk/co-design-collaboration/vinces-journey-during-the-glass-house-internship/)
 
 
 After the workshop, I also attended a symposium event. 
