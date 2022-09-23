@@ -1,7 +1,6 @@
 ---
 layout: page
-title: <ins> About me <ins/>
-subtitle: I really think that since I have no clue, everything is possible
+title: <ins> About me <ins/> subtitle: I really think that since I have no clue, everything is possible
 ---
 
 
