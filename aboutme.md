@@ -10,7 +10,7 @@ I enjoy working on challenging problems that positively affect individuals or or
 
 In addition to my work, I will also include my side and passion projects ranging from coding to art and music!
 
-### [Curriculum Vitae (https://vincedoyo.xyz/cv)(url)]
+### [Curriculum Vitae(https://vincedoyo.xyz/cv)]
 **Take a look at my e-CV to have a glimpse of my skills and experience!**
 
 
