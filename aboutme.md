@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "I really think that since I have no clue, everything is possible" 
+subtitle: ''I really think that since I have no clue, everything is possible''
 ---
 
 My name is Vince Doyo, and I graduated from the University of Sheffield. I figured I might as well create a website as some sort of archive to keep a record of my progress. 
